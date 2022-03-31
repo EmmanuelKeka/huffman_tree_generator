@@ -1,4 +1,3 @@
-package listrefbase;
 //class that has the symbol and the frequency variable
 public abstract class Huffman {
     private char symbol;

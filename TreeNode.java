@@ -1,4 +1,3 @@
-package listrefbase;//package BinaryTrees;
 //exteds huffman to give it access to the symbol and frequency
 public class TreeNode extends Huffman
 {

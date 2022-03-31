@@ -1,5 +1,3 @@
-package listrefbase;
-
 public class ListIndexOutOfBoundsException
             extends IndexOutOfBoundsException {
   public ListIndexOutOfBoundsException(String s) {
