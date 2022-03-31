@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="haffman">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/listrefbase/haffman.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
